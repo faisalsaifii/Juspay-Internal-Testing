@@ -22,7 +22,7 @@ npm run dev
 npm start
 ```
 
--   Making the server accessible by client ( + Monitoring network)
+-   Making the server accessible by client ( + Monitoring network). Download NGROK: https://dashboard.ngrok.com/get-started/setup
 
 ```
 ngrok http 5002
