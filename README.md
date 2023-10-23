@@ -2,6 +2,12 @@
 
 ## Running the server
 
+-   Install the dependencies
+
+```zsh
+npm i
+```
+
 -   Replace the constant values with your credentials in the `.env.sample` file and rename it to `.env`
 
 -   Dev Environment (Hot Reloading)
